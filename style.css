@@ -1,0 +1,45 @@
+.carousel1  {
+  padding-left:300px;
+  width:1000px;
+
+}
+
+.navbar-nav > li > a {padding-top:5px !important; padding-bottom:5px !important;}
+.navbar {min-height:32px !important}
+
+.jumbotron {
+  background-image: url("https://www.photohdx.com/images/2019/08/dark-vintage-blue-texture-background.jpg");
+  background-size: cover;
+}
+
+.jumbotron h1 {
+  color: #FFFFFF
+}
+
+.jumbotron p {
+  color: #FFFFFF
+}
+
+
+.button-image:before {
+  content: "";
+   width: 24px;
+   height: 24px;
+   display: inline-block;
+   margin-right: 5px;
+   vertical-align: text-top;
+   background-color: transparent;
+   background-position : center center;
+   background-repeat:no-repeat;
+
+
+}
+
+.myButton:before{
+   background-image : url(http://icons.iconarchive.com/icons/uiconstock/socialmedia/24/Amazon-icon.png);
+}
+
+.carousel-caption d-none d-md-block {
+  background-color: black;
+
+}
